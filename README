@@ -1,0 +1,12 @@
+config.pyを作り、
+
+sinkan = {
+       "email"    : "your email address",
+       "password" : "your password",
+}
+
+booklog = {
+       "user": "your user name"
+}
+
+を保存
